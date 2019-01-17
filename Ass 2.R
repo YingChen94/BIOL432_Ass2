@@ -34,5 +34,6 @@ if ("Nutrients" %in% names(mydata4) == T)  {
 # Replace all periods . with commas , in the ‘TotalG’ column
 gsub("\\D", ",", mydata4$TotalG)
 
+dgekqgu
 
 
